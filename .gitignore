@@ -1,0 +1,4 @@
+data/
+*.pem
+private/*
+current_servers
